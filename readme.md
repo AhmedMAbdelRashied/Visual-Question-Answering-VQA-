@@ -30,8 +30,8 @@ We introduced a new model architecture based on the Attention is All You Need ( 
 > - The first one allows the output to pay attention to the question
 > - The second one allows the output to pay attention to the encoded image
 
-3. Add more reliable datasets
+2. Add more reliable datasets
 > -  Most VQA answers are yes or no and  numbers
 > - We aim to add more samples where the answer is a sentence not just a word or decimal
-2. Deployment Phase
+3. Deployment Phase
 > - We already deployed a tiny version that was trained in random 20% of the dataset samples
